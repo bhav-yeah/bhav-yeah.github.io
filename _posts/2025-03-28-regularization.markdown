@@ -18,4 +18,7 @@ In practice, we can use these approaches together:
 
 First, choose candidate models via AIC/BIC/Adjusted R², then use Lasso or Ridge for further optimization, stability, or feature selection.
 
+L1(Ridge)/L2(Lasso)
+Pruning 
+
 
